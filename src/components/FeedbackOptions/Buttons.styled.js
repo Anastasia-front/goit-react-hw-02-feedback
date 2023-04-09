@@ -17,4 +17,7 @@ export const Button = styled.button`
   border-radius: 7px;
   background-color: antiquewhite;
   font-family: monospace;
+  &:hover {
+    background-color: #d5afaf;
+  }
 `;
