@@ -13,4 +13,8 @@ export const Li = styled.li`
 export const Button = styled.button`
   text-transform: capitalize;
   padding: 10px;
+  border: 1px solid thistle;
+  border-radius: 7px;
+  background-color: antiquewhite;
+  font-family: monospace;
 `;
